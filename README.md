@@ -17,10 +17,6 @@ The following have been used on this project:
 - CSS
 - React
 
-#### Live link to view the project
-
-<a href="https://peggykimotho.github.io/WK3-Code-Challenge/"> View Flatdango.</a>
-
 ## Contact Details
 You can contact me on email at peggykimotho@gmail.com
 
